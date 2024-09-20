@@ -1,0 +1,4 @@
+{
+  "baseURL": "https://uat.example.com",
+  "apiEndpoint": "https://api.uat.example.com"
+}
